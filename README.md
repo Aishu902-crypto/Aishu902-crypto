@@ -1,5 +1,15 @@
 # Hi 👋, I'm Aishwarya RY
 
+<h1 align="center">Hi 👋, I'm Aishwarya RY</h1>
+
+<h3 align="center">
+Computer Science Graduate | Machine Learning Enthusiast | Python Developer
+</h3>
+
+<p align="center">
+Passionate about Machine Learning, Data Science, and Python Development.
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Graduate;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 ### Computer Science Graduate | Machine Learning Enthusiast | Python Developer
