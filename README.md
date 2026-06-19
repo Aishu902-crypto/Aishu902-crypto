@@ -47,7 +47,7 @@ Collection of ML algorithms and datasets.
 ## Connect With Me
 
 - GitHub: https://github.com/Aishu902-crypto
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/aishwarya-r-y-150b4a27b
 
 ---
 
