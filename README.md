@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Aishwarya RY
 
-<!--
-**Aishu902-crypto/Aishu902-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Machine Learning Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+🌱 Currently learning Machine Learning and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Python Development and AI
+
+📚 Building real-world projects using Machine Learning
+
+🚀 Continuously improving problem-solving skills
+
+---
+
+## Skills
+
+### Programming Languages
+- Python
+- SQL
+
+### Machine Learning
+- Linear Regression
+- Polynomial Regression
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## Projects
+
+### Loan Prediction System
+Machine Learning project that predicts loan approval status.
+
+### Machine Learning Repository
+Collection of ML algorithms and datasets.
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/Aishu902-crypto
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ Always learning and building new projects.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishu902-crypto&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishu902-crypto&layout=compact)
+
+## Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
+</p>
+
