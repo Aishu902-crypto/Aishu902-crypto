@@ -1,10 +1,6 @@
-# Hi 👋, I'm Aishwarya RY
-
 <h1 align="center">Hi 👋, I'm Aishwarya RY</h1>
 
-<h3 align="center">
-Computer Science Graduate | Machine Learning Enthusiast | Python Developer
-</h3>
+<h3 align="center">Computer Science Graduate | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
 Passionate about Machine Learning, Data Science, and Python Development.
