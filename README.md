@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aishwarya RY</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7074,100:8bb7f0&height=250&section=header&text=Aishwarya%20RY&fontSize=60&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:3B82F6&text=Aishwarya%20RY&fontSize=55&fontColor=ffffff&fontAlignY=40" />
 
 <h2 align="center">
 🚀 Machine Learning Enthusiast • Python Developer • Computer Science Graduate
