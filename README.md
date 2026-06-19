@@ -1,5 +1,7 @@
 # Hi 👋, I'm Aishwarya RY
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Graduate;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50)](https://git.io/typing-svg)
+
 ### Computer Science Graduate | Machine Learning Enthusiast | Python Developer
 
 🌱 Currently learning Machine Learning and Data Science
@@ -65,3 +67,6 @@ Collection of ML algorithms and datasets.
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
 </p>
 
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=Aishu902-crypto)
