@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aishwarya RY</h1>
 
-<h3 align="center">Computer Science Graduate | Machine Learning Enthusiast | Python Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7074,100:8bb7f0&height=250&section=header&text=Aishwarya%20RY&fontSize=60&fontColor=ffffff" />
+
+<h2 align="center">
+🚀 Machine Learning Enthusiast • Python Developer • Computer Science Graduate
+</h2>
 
 <p align="center">
-Passionate about Machine Learning, Data Science, and Python Development.
+Building Machine Learning Projects • Learning AI • Solving Real-World Problems
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Graduate;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50)](https://git.io/typing-svg)
