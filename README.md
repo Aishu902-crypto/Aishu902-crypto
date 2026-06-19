@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:1F2937,100:D4AF37&text=Aishwarya%20RY&fontSize=55&fontColor=ffffff&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,50:7C3AED,100:C084FC&text=Aishwarya%20RY&fontSize=55&fontColor=ffffff&fontAlignY=40" />
 
 <h2 align="center">
 🚀 Machine Learning Enthusiast • Python Developer • Computer Science Graduate
